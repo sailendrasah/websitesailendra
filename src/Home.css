@@ -1,0 +1,31 @@
+.btn{
+  font-size: 30px;
+  border: 2px solid black;
+  border-radius: 14px;
+  background-color: green;
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+.btn:hover{
+    background-color: blue;
+}
+.img{
+    width: 200px;
+    /* margin: 0px 100px; */
+    /* margin-left: 60%; */
+    /* margin-bottom: 100%; */
+    /* margin-bottom: 50vmin; */
+}
+.pic{
+    width: 200px;
+    /* margin-bottom: 55%; */
+
+}
+.home{
+  display: flex;
+  margin: 10px ;
+  text-align: center;
+  justify-content: center;
+  padding: 8%;
+}

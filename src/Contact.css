@@ -1,0 +1,17 @@
+.header{
+  width:300px;
+  margin:0px auto;
+  text-align: center;
+  justify-content: center;
+  font-size: 40px;
+  padding: 8px;
+  /* height: 500px; */
+  /* display: inline; */
+}
+input{
+  font-size: 15px;
+  width: 400px;
+  padding: 15px;
+  border: 1px solid white;
+  border-radius: 22px;
+}
