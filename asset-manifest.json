@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/websitesailendra/static/css/main.44054000.css",
+    "main.js": "/websitesailendra/static/js/main.083b815a.js",
+    "static/media/Snapchat-796638355.jpg": "/websitesailendra/static/media/Snapchat-796638355.8ea6a2866e444a4d0fa2.jpg",
+    "static/media/software.jpeg": "/websitesailendra/static/media/software.4e191c52d4456c28f7e0.jpeg",
+    "static/media/python.webp": "/websitesailendra/static/media/python.9f3cc77c912db8b1b645.webp",
+    "static/media/App.jpeg": "/websitesailendra/static/media/App.f0d5f10ba05a04396559.jpeg",
+    "static/media/web.jpeg": "/websitesailendra/static/media/web.b2a00b4da0929c595826.jpeg",
+    "static/media/c.jpeg": "/websitesailendra/static/media/c.dccfef2a78c70d3ae5ba.jpeg",
+    "index.html": "/websitesailendra/index.html",
+    "main.44054000.css.map": "/websitesailendra/static/css/main.44054000.css.map",
+    "main.083b815a.js.map": "/websitesailendra/static/js/main.083b815a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44054000.css",
+    "static/js/main.083b815a.js"
+  ]
+}
